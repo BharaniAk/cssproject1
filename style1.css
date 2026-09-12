@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: lightgrey;
+}
+nav{
+    background-color:ghostwhite;
+    color: black;
+    padding: 40px;
+    
+}
+h1{
+    color: black;
+}
+h4{
+    padding-top: 20px;
+    color:gold;
+}
+li1{
+    color: black;
+}
+h1,.list1,.li1{
+    display: inline;
+}
+.list1{
+    padding-left: 50%;
+}
+li1:hover{
+    background-color:whitesmoke;
+    cursor: pointer;
+    color: purple;
+}
+.photo{
+    border-color:black;
+    border: width 100px;
+    max-width: fit-content;
+    border-style:solid;
+    margin-top: 30px;
+    margin-left: 32%;
+}
+#photoname{
+    color:rgb(141, 239, 239);
+}
+.aboutme{
+    padding: 50px;
+    text-align: center;
+
+}
+.intro{
+    padding: 50px;
+    margin: 2px;
+    text-align:center;
+    line-height: 35px;
+}
+hr{
+    border: 0px;
+    height: 1.5px;
+    background-color:darkgray;
+}
+.tools
+{ padding: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+li:hover{
+    color: rgb(182, 100, 227);
+    background-color:whitesmoke;
+    box-sizing: border-box;
+}
+.toolslist{
+    text-align: center;
+    line-height: 35px;;
+}
+h3{
+    text-decoration: underline;
+}
+.p1{
+    margin: 50px;
+}
